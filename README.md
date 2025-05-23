@@ -12,7 +12,6 @@ A simulation of a muon detection system using Verilog, designed to identify coin
 Tech Stack:
 Language: Verilog HDL
 Simulation Tool: ModelSim
-Future Integration: Replace push buttons with actual detectors like scintillators or PMTs
 
 Simulation:
 All modules were tested using Verilog testbenches.
